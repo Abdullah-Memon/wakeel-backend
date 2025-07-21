@@ -1,0 +1,15 @@
+
+flask-limiter
+mysql-connector-python
+python-dotenv
+pyjwt
+bcrypt
+flask-cors
+gunicorn
+Flask
+together
+sentence-transformers
+scikit-learn
+numpy
+python-dateutil
+regex
