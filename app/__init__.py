@@ -37,7 +37,7 @@ def create_app():
     with app.app_context():
         init_db()
         # Initialize the model at startup
-        law_assistant.get_legal_response("hello")
+        # law_assistant.get_legal_response("hello")
         app.logger.info("Model initialized.")
 
     # Initialize rate limiter
